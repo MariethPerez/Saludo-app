@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0.25px;
+}
+
+table {
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+table td,
+table th {
+  border: 1px solid #dbdbdb;
+  border-width: 0 0 1px;
+  padding: 0.5em 0.75em;
+  vertical-align: center;
+  text-align: center;
+}
+
+input,
+button {
+  margin-right: 10px;
+  margin-left: 5px;
+  border: 1px solid #123;
+  padding: 10px 16px;
+  border-radius: 5px;
+}
